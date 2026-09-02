@@ -1,0 +1,57 @@
+about:
+  description: trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
+  license: MIT
+  homepage: https://trzsz.github.io/tssh
+  head: dca1425
+  archived: false
+  latestVersion: dev
+  collectedAt: 2026-09-02T04:41:02Z
+timeline:
+  created: 2023-05-21
+  lastCommit: 2026-08-15
+  lastRelease: 2026-08-15
+popularity:
+  star: 2705
+  watcher: 15
+  fork: 151
+  release: 27
+  contributor: 16
+  pullRequest: 10
+  issue: 254
+language:
+  Go: 642207
+  Makefile: 862
+totalLine: 643069
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 4
+    commit: 4
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 22
+    openIssue: 5
+    commit: 41
+  last180d:
+    since: 2026-03-06
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 47
+    openIssue: 8
+    commit: 95
+  last360d:
+    since: 2025-09-07
+    release: 5
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 64
+    openIssue: 16
+    commit: 160
