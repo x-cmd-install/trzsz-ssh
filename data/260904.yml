@@ -7,7 +7,7 @@ about:
   head: dca1425
   archived: false
   latestVersion: dev
-  collectedAt: 2026-09-04T19:42:14Z
+  collectedAt: 2026-09-04T20:55:32Z
 timeline:
   created: 2023-05-21
   lastCommit: 2026-08-15
@@ -81,5 +81,28 @@ total:
   openIssue: 33
   commit: 351
 ---
+path: /home/runner/.x-repo/github.com/trzsz/trzsz-ssh
+collectedAt: 2026-09-04T20:55:33Z
+loc:
+  Go:
+    code: 17194
+    comments: 2223
+    blanks: 2456
+    files: 74
+  Makefile:
+    code: 38
+    comments: 0
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1690
+    blanks: 770
+    files: 3
+total:
+  code: 17327
+  comments: 3915
+  blanks: 3239
+  files: 78
 ---
 
