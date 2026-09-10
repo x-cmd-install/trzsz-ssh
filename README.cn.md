@@ -4,13 +4,23 @@
 
 trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
 
-![trzsz-ssh](https://repo.x-cmd.io/trzsz-ssh.svg)
+![trzsz-ssh](https://repo.x-cmd.io/trzsz-ssh.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install trzsz-ssh
 ```
+
+## 代码规模
+
+合计: **17,232** 行代码（覆盖前 5 种语言、共 **78** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 17,194 | 2,223 | 2,456 | 74 |
+| Makefile | 38 | 0 | 9 | 1 |
+| Markdown | 0 | 1,690 | 770 | 3 |
 
 ## 源代码
 
@@ -23,11 +33,10 @@ x install trzsz-ssh
 - **最新版本**: `dev` (2026-07-26)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 29 个
-- **发布时间**: 2026-07-26T00:33:13Z
 
 ## 流行度
 
-- **Star**: 2,714 · **Fork**: 152 · **开放 issue**: 254 · **贡献者**: 16
+- **Star**: 2,715 · **Fork**: 152 · **开放 issue**: 254 · **贡献者**: 16
 
 ## 累计统计
 
@@ -38,18 +47,54 @@ x install trzsz-ssh
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 0 | 1 | 1 | 2 | 3 |
+| last60d | 2026-07-12 | 2 | 1 | 1 | 9 | 3 | 17 |
 | 90d | 2026-06-12 | 2 | 4 | 1 | 23 | 4 | 38 |
+| last180d | 2026-03-14 | 3 | 8 | 1 | 46 | 7 | 93 |
 | 360d | 2025-09-15 | 5 | 9 | 1 | 65 | 14 | 161 |
+| last720d | 2024-09-20 | 5 | 10 | 1 | 93 | 24 | 173 |
 
-## 代码规模
+## Release 资产
 
-合计: **17,232** 行代码（覆盖前 5 种语言、共 **78** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tssh_0.1.26_android_aarch64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_android_aarch64.tar.gz) | 7.4 MiB | `native/linux/arm64` |
+| [tssh_0.1.26_checksums.txt](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_checksums.txt) | 2.5 KiB | `other` |
+| [tssh_0.1.26_freebsd_aarch64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_freebsd_aarch64.tar.gz) | 7.0 MiB | `native/linux/arm64` |
+| [tssh_0.1.26_freebsd_x86_64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_freebsd_x86_64.tar.gz) | 7.8 MiB | `native/linux/x64` |
+| [tssh_0.1.26_linux_aarch64.deb](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_aarch64.deb) | 7.0 MiB | `native/linux/arm64` |
+| [tssh_0.1.26_linux_aarch64.rpm](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_aarch64.rpm) | 7.3 MiB | `native/linux/arm64` |
+| [tssh_0.1.26_linux_aarch64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_aarch64.tar.gz) | 7.0 MiB | `native/linux/arm64` |
+| [tssh_0.1.26_linux_armv6.deb](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_armv6.deb) | 7.3 MiB | `native/linux/arm` |
+| [tssh_0.1.26_linux_armv6.rpm](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_armv6.rpm) | 7.6 MiB | `native/linux/arm` |
+| [tssh_0.1.26_linux_armv6.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_armv6.tar.gz) | 7.3 MiB | `native/linux/arm` |
+| [tssh_0.1.26_linux_armv7.deb](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_armv7.deb) | 7.3 MiB | `native/linux/arm` |
+| [tssh_0.1.26_linux_armv7.rpm](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_armv7.rpm) | 7.5 MiB | `native/linux/arm` |
+| [tssh_0.1.26_linux_armv7.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_armv7.tar.gz) | 7.3 MiB | `native/linux/arm` |
+| [tssh_0.1.26_linux_i386.deb](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_i386.deb) | 7.4 MiB | `native/linux/x86` |
+| [tssh_0.1.26_linux_i386.rpm](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_i386.rpm) | 7.6 MiB | `native/linux/x86` |
+| [tssh_0.1.26_linux_i386.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_i386.tar.gz) | 7.4 MiB | `native/linux/x86` |
+| [tssh_0.1.26_linux_loong64.deb](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_loong64.deb) | 7.3 MiB | `other` |
+| [tssh_0.1.26_linux_loong64.rpm](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_loong64.rpm) | 7.5 MiB | `other` |
+| [tssh_0.1.26_linux_loong64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_loong64.tar.gz) | 7.2 MiB | `native/unknown` |
+| [tssh_0.1.26_linux_x86_64.deb](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_x86_64.deb) | 7.9 MiB | `native/linux/x64` |
+| [tssh_0.1.26_linux_x86_64.rpm](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_x86_64.rpm) | 8.2 MiB | `native/linux/x64` |
+| [tssh_0.1.26_linux_x86_64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_x86_64.tar.gz) | 7.8 MiB | `native/linux/x64` |
+| [tssh_0.1.26_macos_aarch64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_macos_aarch64.tar.gz) | 7.4 MiB | `native/darwin/arm64` |
+| [tssh_0.1.26_macos_x86_64.tar.gz](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_macos_x86_64.tar.gz) | 8.0 MiB | `native/darwin/x64` |
+| [tssh_0.1.26_win7_i386.zip](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_win7_i386.zip) | 7.5 MiB | `other` |
+| [tssh_0.1.26_win7_x86_64.zip](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_win7_x86_64.zip) | 7.9 MiB | `other` |
+| [tssh_0.1.26_windows_aarch64.zip](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_aarch64.zip) | 7.1 MiB | `native/win/arm64` |
+| [tssh_0.1.26_windows_i386.zip](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_i386.zip) | 7.6 MiB | `native/win/x64` |
+| [tssh_0.1.26_windows_x86_64.zip](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_x86_64.zip) | 8.0 MiB | `native/win/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 17,194 | 2,223 | 2,456 | 74 |
-| Makefile | 38 | 0 | 9 | 1 |
-| Markdown | 0 | 1,690 | 770 | 3 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/trzsz-ssh) 上共有 **5** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.1.26` | ✅ latest |
+| Nix unstable | `0.1.26` | ✅ latest |
 
 ## 改进这些数据
 
@@ -60,4 +105,4 @@ trzsz-ssh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:32:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:34:31Z._
