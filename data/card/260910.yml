@@ -7,7 +7,7 @@ about:
   latestVersion: "dev"
   latestRelease: "v0.1.26"
   latestPrerelease: "dev"
-  collectedAt: 2026-09-10T20:34:22Z
+  collectedAt: 2026-09-10T23:19:35Z
 timeline:
   created: 2023-05-21
   lastCommit: 2026-09-05
@@ -84,7 +84,7 @@ total:
   commit: 352
 ---
 path: /home/runner/.x-repo/github.com/trzsz/trzsz-ssh
-collectedAt: 2026-09-10T20:34:24Z
+collectedAt: 2026-09-10T23:19:36Z
 loc:
   Go:
     code: 17194
