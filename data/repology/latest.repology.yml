@@ -1,0 +1,50 @@
+- repo: nix_unstable
+  srcname: trzsz-ssh
+  visiblename: trzsz-ssh
+  version: 0.1.26
+  origversion: null
+  status: newest
+  summary: SSH client designed as a drop-in replacement for the openssh client
+  maintainers:
+    - lhongxu@outlook.com
+  licenses:
+    - MIT
+- repo: termux
+  srcname: trzsz-ssh
+  binname: trzsz-ssh
+  visiblename: trzsz-ssh
+  version: 0.1.26
+  origversion: null
+  status: newest
+  summary: An openssh client alternative
+  maintainers:
+    - termux@github
+- repo: homebrew
+  srcname: trzsz-ssh
+  visiblename: trzsz-ssh
+  version: 0.1.26
+  origversion: null
+  status: newest
+  summary: Highly OpenSSH-compatible client with extended features
+- repo: nix_stable_25_11
+  srcname: trzsz-ssh
+  visiblename: trzsz-ssh
+  version: 0.1.23
+  origversion: null
+  status: outdated
+  summary: SSH client designed as a drop-in replacement for the openssh client
+  maintainers:
+    - lhongxu@outlook.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: trzsz-ssh
+  visiblename: trzsz-ssh
+  version: 0.1.24
+  origversion: null
+  status: outdated
+  summary: SSH client designed as a drop-in replacement for the openssh client
+  maintainers:
+    - lhongxu@outlook.com
+  licenses:
+    - MIT
