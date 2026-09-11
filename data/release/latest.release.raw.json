@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2511,
       "digest": "sha256:0a23f61fb714171384134a1aeac9966dd634959f76491fa00236a807cb4ec4a2",
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:37Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_checksums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7369519,
       "digest": "sha256:aa87c3022096b1ac6f583e1af04675419ec777ec3336a34d353efce73b75a0a9",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:38Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_aarch64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 7904745,
       "digest": "sha256:c4771138908770ddb43a84b64621214707f0970dc2fc07800bd3bb4a56426efa",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:38Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_armv7.rpm"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 8248720,
       "digest": "sha256:25c793777289f057c3e5fd7d5cb708cef2dbd74341918844489d09877d534730",
-      "download_count": 64,
+      "download_count": 65,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:39Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_x86_64.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 8553295,
       "digest": "sha256:a5e712fe5d214dbb4d99ac47aaa13d5dcef76cde703ea24c6b4c706f1cb5de95",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:39Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_x86_64.rpm"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 8220631,
       "digest": "sha256:e01cfacb5fef97b4eb2b5521ad2c9c27ec4892088ae75d329bcef9e290723301",
-      "download_count": 1103,
+      "download_count": 1116,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:38Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_x86_64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 8421838,
       "digest": "sha256:04ef663f1ef9f1c46298264b04d51a9f6920e5df460a5f3e1bacdb68c3ac58cb",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:39Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_macos_x86_64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 7410689,
       "digest": "sha256:2d32d89f41f1dc374e8ec3749c0f2a1634e0deec74bc296e38a16ca76978aabe",
-      "download_count": 121,
+      "download_count": 122,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:38Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_aarch64.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 8014155,
       "digest": "sha256:d0c0e89070b4e9147f67d1fddfda2c6a6cbcff79627f177cc3afad02bd9f0da8",
-      "download_count": 106,
+      "download_count": 107,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:38Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_i386.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 8400438,
       "digest": "sha256:15f788e31d08176028d179aa6c9ad0c89b995d6986ce280a50c66fd0c91397da",
-      "download_count": 1050,
+      "download_count": 1060,
       "created_at": "2026-07-26T00:37:37Z",
       "updated_at": "2026-07-26T00:37:39Z",
       "browser_download_url": "https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_x86_64.zip"
