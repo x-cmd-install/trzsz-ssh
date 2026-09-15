@@ -46,12 +46,12 @@ Total: **17,232** lines of code across **78** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 0 | 1 | 1 | 1 | 3 |
-| last60d | 2026-07-16 | 2 | 1 | 1 | 8 | 3 | 18 |
-| 90d | 2026-06-16 | 2 | 4 | 1 | 16 | 4 | 35 |
-| last180d | 2026-03-18 | 3 | 8 | 1 | 45 | 7 | 93 |
-| 360d | 2025-09-19 | 5 | 9 | 1 | 65 | 14 | 163 |
-| last720d | 2024-09-24 | 5 | 10 | 1 | 92 | 23 | 175 |
+| 30d | 2026-08-16 | 1 | 0 | 1 | 1 | 1 | 3 |
+| last60d | 2026-07-17 | 2 | 1 | 1 | 7 | 3 | 18 |
+| 90d | 2026-06-17 | 2 | 4 | 1 | 15 | 4 | 35 |
+| last180d | 2026-03-19 | 3 | 8 | 1 | 45 | 7 | 93 |
+| 360d | 2025-09-20 | 5 | 9 | 1 | 65 | 14 | 163 |
+| last720d | 2024-09-25 | 5 | 10 | 1 | 92 | 23 | 175 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:50:01Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:49:21Z._
