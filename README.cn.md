@@ -4,7 +4,7 @@
 
 trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
 
-[![x-cmd/install — trzsz-ssh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/trzsz-ssh.svg?lang=zh)](https://x-cmd.com/install/trzsz-ssh)
+[![x-cmd/install — trzsz-ssh Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/trzsz-ssh.svg?lang=zh)](https://x-cmd.com/install/trzsz-ssh)
 
 ## 安装
 
@@ -46,12 +46,12 @@ x install trzsz-ssh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 2 | 1 | 0 | 3 |
-| last60d | 2026-07-24 | 2 | 1 | 2 | 6 | 3 | 8 |
-| 90d | 2026-06-24 | 2 | 4 | 2 | 14 | 4 | 26 |
-| last180d | 2026-03-26 | 3 | 8 | 2 | 41 | 6 | 84 |
-| 360d | 2025-09-27 | 5 | 9 | 2 | 65 | 14 | 163 |
-| last720d | 2024-10-02 | 5 | 10 | 2 | 91 | 23 | 175 |
+| 30d | 2026-08-24 | 1 | 0 | 2 | 1 | 0 | 3 |
+| last60d | 2026-07-25 | 2 | 1 | 2 | 5 | 3 | 8 |
+| 90d | 2026-06-25 | 2 | 4 | 2 | 14 | 4 | 26 |
+| last180d | 2026-03-27 | 3 | 8 | 2 | 39 | 5 | 84 |
+| 360d | 2025-09-28 | 5 | 9 | 2 | 65 | 14 | 163 |
+| last720d | 2024-10-03 | 5 | 10 | 2 | 91 | 23 | 175 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ trzsz-ssh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:51:15Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:57:04Z._
