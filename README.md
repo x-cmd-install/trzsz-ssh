@@ -14,11 +14,11 @@ x install trzsz-ssh
 
 ## Code insight
 
-Total: **17,279** lines of code across **78** files in the top 5 languages.
+Total: **17,356** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,241 | 2,223 | 2,467 | 74 |
+| Go | 17,318 | 2,225 | 2,478 | 75 |
 | Makefile | 38 | 0 | 9 | 1 |
 | Markdown | 0 | 1,690 | 770 | 3 |
 
@@ -36,22 +36,22 @@ Total: **17,279** lines of code across **78** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,742 · **Forks**: 156 · **Open issues**: 255 · **Contributors**: 16
+- **Stars**: 2,748 · **Forks**: 157 · **Open issues**: 255 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 14 · **Open PRs**: 2 · **Closed issues**: 222 · **Open issues**: 33 · **Commits**: 356
+- **Releases**: 27 · **Merged PRs**: 15 · **Open PRs**: 2 · **Closed issues**: 223 · **Open issues**: 32 · **Commits**: 360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-08-12 | 1 | 0 | 2 | 2 | 2 | 0 |
-| 90d | 2026-07-13 | 2 | 1 | 2 | 9 | 3 | 0 |
-| last180d | 2026-04-14 | 3 | 7 | 2 | 37 | 5 | 0 |
-| 360d | 2025-10-16 | 5 | 9 | 2 | 65 | 12 | 0 |
-| last720d | 2024-10-21 | 5 | 9 | 2 | 88 | 23 | 174 |
+| 30d | 2026-09-12 | 1 | 1 | 1 | 1 | 0 | 6 |
+| last60d | 2026-08-13 | 1 | 1 | 2 | 2 | 1 | 9 |
+| 90d | 2026-07-14 | 2 | 2 | 2 | 9 | 3 | 24 |
+| last180d | 2026-04-15 | 3 | 7 | 2 | 37 | 5 | 76 |
+| 360d | 2025-10-17 | 5 | 10 | 2 | 65 | 12 | 159 |
+| last720d | 2024-10-22 | 5 | 10 | 2 | 88 | 22 | 178 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:28:47Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:39:39Z._
