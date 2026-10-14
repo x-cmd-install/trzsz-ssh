@@ -14,11 +14,11 @@ x install trzsz-ssh
 
 ## Code insight
 
-Total: **17,356** lines of code across **79** files in the top 5 languages.
+Total: **17,361** lines of code across **79** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,318 | 2,225 | 2,478 | 75 |
+| Go | 17,323 | 2,225 | 2,478 | 75 |
 | Makefile | 38 | 0 | 9 | 1 |
 | Markdown | 0 | 1,690 | 770 | 3 |
 
@@ -31,27 +31,27 @@ Total: **17,356** lines of code across **79** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dev` (2026-07-26)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-14
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 2,750 · **Forks**: 157 · **Open issues**: 255 · **Contributors**: 18
+- **Stars**: 2,750 · **Forks**: 158 · **Open issues**: 256 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 15 · **Open PRs**: 2 · **Closed issues**: 223 · **Open issues**: 32 · **Commits**: 360
+- **Releases**: 27 · **Merged PRs**: 16 · **Open PRs**: 2 · **Closed issues**: 224 · **Open issues**: 32 · **Commits**: 361
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 1 | 1 | 1 | 0 | 6 |
-| last60d | 2026-08-14 | 1 | 1 | 2 | 2 | 1 | 9 |
-| 90d | 2026-07-15 | 2 | 2 | 2 | 9 | 3 | 24 |
-| last180d | 2026-04-16 | 3 | 7 | 2 | 37 | 5 | 76 |
-| 360d | 2025-10-18 | 5 | 10 | 2 | 64 | 12 | 159 |
-| last720d | 2024-10-23 | 5 | 10 | 2 | 88 | 22 | 178 |
+| 30d | 2026-09-14 | 1 | 2 | 1 | 2 | 0 | 7 |
+| last60d | 2026-08-15 | 1 | 2 | 2 | 3 | 1 | 10 |
+| 90d | 2026-07-16 | 2 | 3 | 2 | 10 | 3 | 25 |
+| last180d | 2026-04-17 | 3 | 8 | 2 | 38 | 5 | 77 |
+| 360d | 2025-10-19 | 5 | 11 | 2 | 65 | 12 | 160 |
+| last720d | 2024-10-24 | 5 | 11 | 2 | 89 | 22 | 179 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:31:03Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:31:56Z._
