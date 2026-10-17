@@ -14,13 +14,13 @@ x install trzsz-ssh
 
 ## Code insight
 
-Total: **17,415** lines of code across **79** files in the top 5 languages.
+Total: **20,181** lines of code across **87** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,377 | 2,253 | 2,485 | 75 |
+| Go | 20,143 | 2,602 | 2,840 | 83 |
 | Makefile | 38 | 0 | 9 | 1 |
-| Markdown | 0 | 1,690 | 770 | 3 |
+| Markdown | 0 | 1,710 | 782 | 3 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **17,415** lines of code across **79** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dev` (2026-07-26)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-17
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 2,753 · **Forks**: 159 · **Open issues**: 256 · **Contributors**: 20
+- **Stars**: 2,756 · **Forks**: 159 · **Open issues**: 256 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 17 · **Open PRs**: 2 · **Closed issues**: 224 · **Open issues**: 32 · **Commits**: 362
+- **Releases**: 27 · **Merged PRs**: 18 · **Open PRs**: 1 · **Closed issues**: 225 · **Open issues**: 31 · **Commits**: 364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 3 | 0 | 2 | 0 | 8 |
-| last60d | 2026-08-17 | 1 | 3 | 2 | 3 | 1 | 11 |
-| 90d | 2026-07-18 | 2 | 4 | 2 | 9 | 3 | 26 |
-| last180d | 2026-04-19 | 3 | 9 | 2 | 38 | 5 | 78 |
-| 360d | 2025-10-21 | 5 | 12 | 2 | 65 | 12 | 161 |
-| last720d | 2024-10-26 | 5 | 12 | 2 | 89 | 22 | 180 |
+| 30d | 2026-09-17 | 1 | 3 | 0 | 2 | 0 | 10 |
+| last60d | 2026-08-18 | 1 | 4 | 1 | 3 | 1 | 13 |
+| 90d | 2026-07-19 | 2 | 5 | 1 | 9 | 3 | 28 |
+| last180d | 2026-04-20 | 3 | 10 | 1 | 38 | 5 | 80 |
+| 360d | 2025-10-22 | 5 | 13 | 1 | 65 | 11 | 163 |
+| last720d | 2024-10-27 | 5 | 13 | 1 | 90 | 21 | 182 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:07:27Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:05:47Z._
