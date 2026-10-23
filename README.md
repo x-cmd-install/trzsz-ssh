@@ -36,7 +36,7 @@ Total: **20,209** lines of code across **87** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,761 · **Forks**: 159 · **Open issues**: 256 · **Contributors**: 21
+- **Stars**: 2,763 · **Forks**: 159 · **Open issues**: 256 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **20,209** lines of code across **87** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 3 | 0 | 2 | 0 | 14 |
-| last60d | 2026-08-23 | 1 | 4 | 0 | 3 | 0 | 17 |
-| 90d | 2026-07-24 | 2 | 5 | 0 | 9 | 2 | 23 |
-| last180d | 2026-04-25 | 3 | 10 | 0 | 38 | 4 | 82 |
-| 360d | 2025-10-27 | 4 | 13 | 0 | 65 | 10 | 160 |
-| last720d | 2024-11-01 | 5 | 13 | 0 | 91 | 20 | 186 |
+| 30d | 2026-09-23 | 1 | 3 | 0 | 2 | 0 | 14 |
+| last60d | 2026-08-24 | 1 | 4 | 0 | 3 | 0 | 17 |
+| 90d | 2026-07-25 | 2 | 5 | 0 | 8 | 2 | 23 |
+| last180d | 2026-04-26 | 3 | 10 | 0 | 38 | 4 | 82 |
+| 360d | 2025-10-28 | 4 | 13 | 0 | 65 | 10 | 160 |
+| last720d | 2024-11-02 | 5 | 13 | 0 | 91 | 20 | 186 |
 
 ## Release assets
 
@@ -87,6 +87,15 @@ Total: **20,209** lines of code across **87** files in the top 5 languages.
 | [tssh_0.1.26_windows_i386.zip](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_i386.zip) | 7.6 MiB | `native/win/x64` |
 | [tssh_0.1.26_windows_x86_64.zip](https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_windows_x86_64.zip) | 8.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/trzsz-ssh). **4** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.1.26` | ✅ latest |
+| Nix unstable | `0.1.26` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `trzsz-ssh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +105,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:21:10Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:29:27Z._
