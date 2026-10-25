@@ -4,7 +4,7 @@
   visiblename: trzsz-ssh
   version: 0.1.26
   origversion: 0.1.26-1
-  status: newest
+  status: outdated
   summary: Drop-in openssh client replacement with login prompt, trzsz, zmodem (rz/sz) and udp mode
   maintainers:
     - giovani_geek@aur
@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: trzsz-ssh
   visiblename: trzsz-ssh
-  version: 0.1.26
+  version: 0.1.27
   origversion: null
   status: newest
   summary: Highly OpenSSH-compatible client with extended features
@@ -44,7 +44,7 @@
   visiblename: trzsz-ssh
   version: 0.1.26
   origversion: null
-  status: newest
+  status: outdated
   summary: SSH client designed as a drop-in replacement for the openssh client
   maintainers:
     - lhongxu@outlook.com
@@ -56,7 +56,7 @@
   visiblename: trzsz-ssh
   version: 0.1.26
   origversion: null
-  status: newest
+  status: outdated
   summary: An openssh client alternative
   maintainers:
     - termux@github
