@@ -54,9 +54,9 @@
   srcname: trzsz-ssh
   binname: trzsz-ssh
   visiblename: trzsz-ssh
-  version: 0.1.26
+  version: 0.1.27
   origversion: null
-  status: outdated
+  status: newest
   summary: An openssh client alternative
   maintainers:
     - termux@github
