@@ -42,9 +42,9 @@
 - repo: nix_unstable
   srcname: trzsz-ssh
   visiblename: trzsz-ssh
-  version: 0.1.26
+  version: 0.1.27
   origversion: null
-  status: outdated
+  status: newest
   summary: SSH client designed as a drop-in replacement for the openssh client
   maintainers:
     - lhongxu@outlook.com
