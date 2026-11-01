@@ -14,13 +14,13 @@ x install trzsz-ssh
 
 ## Code insight
 
-Total: **20,266** lines of code across **87** files in the top 5 languages.
+Total: **20,267** lines of code across **87** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 20,228 | 2,622 | 2,859 | 83 |
+| Go | 20,229 | 2,622 | 2,859 | 83 |
 | Makefile | 38 | 0 | 9 | 1 |
-| Markdown | 0 | 1,716 | 784 | 3 |
+| Markdown | 0 | 1,720 | 786 | 3 |
 
 ## Source
 
@@ -30,28 +30,28 @@ Total: **20,266** lines of code across **87** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.27` (2026-10-25)
-- **Last commit**: 2026-10-25
+- **Latest**: `dev` (2026-10-25)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 2,775 · **Forks**: 159 · **Open issues**: 256 · **Contributors**: 21
+- **Stars**: 2,777 · **Forks**: 159 · **Open issues**: 256 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 18 · **Open PRs**: 1 · **Closed issues**: 227 · **Open issues**: 29 · **Commits**: 370
+- **Releases**: 28 · **Merged PRs**: 18 · **Open PRs**: 2 · **Closed issues**: 227 · **Open issues**: 29 · **Commits**: 371
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 3 | 1 | 1 | 0 | 16 |
-| last60d | 2026-09-01 | 2 | 4 | 1 | 2 | 0 | 19 |
-| 90d | 2026-08-02 | 2 | 4 | 1 | 6 | 1 | 23 |
-| last180d | 2026-05-04 | 3 | 10 | 1 | 35 | 3 | 80 |
-| 360d | 2025-11-05 | 5 | 13 | 1 | 63 | 9 | 159 |
-| last720d | 2024-11-10 | 6 | 13 | 1 | 92 | 18 | 188 |
+| 30d | 2026-10-02 | 2 | 3 | 2 | 1 | 0 | 16 |
+| last60d | 2026-09-02 | 2 | 4 | 2 | 2 | 0 | 19 |
+| 90d | 2026-08-03 | 2 | 4 | 2 | 6 | 1 | 22 |
+| last180d | 2026-05-05 | 3 | 10 | 2 | 35 | 3 | 79 |
+| 360d | 2025-11-06 | 5 | 13 | 2 | 63 | 9 | 157 |
+| last720d | 2024-11-11 | 6 | 13 | 2 | 92 | 18 | 189 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:15:18Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:48:07Z._
