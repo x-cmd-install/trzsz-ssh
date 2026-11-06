@@ -36,22 +36,22 @@ Total: **20,267** lines of code across **87** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,778 · **Forks**: 159 · **Open issues**: 256 · **Contributors**: 21
+- **Stars**: 2,781 · **Forks**: 160 · **Open issues**: 256 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 18 · **Open PRs**: 2 · **Closed issues**: 227 · **Open issues**: 29 · **Commits**: 371
+- **Releases**: 28 · **Merged PRs**: 18 · **Open PRs**: 3 · **Closed issues**: 227 · **Open issues**: 29 · **Commits**: 371
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 3 | 2 | 1 | 0 | 16 |
-| last60d | 2026-09-06 | 2 | 3 | 2 | 2 | 0 | 19 |
-| 90d | 2026-08-07 | 2 | 4 | 2 | 4 | 1 | 22 |
-| last180d | 2026-05-09 | 3 | 10 | 2 | 33 | 3 | 79 |
-| 360d | 2025-11-10 | 5 | 13 | 2 | 62 | 8 | 157 |
-| last720d | 2024-11-15 | 6 | 13 | 2 | 92 | 18 | 189 |
+| 30d | 2026-10-07 | 2 | 3 | 3 | 1 | 0 | 16 |
+| last60d | 2026-09-07 | 2 | 3 | 3 | 2 | 0 | 19 |
+| 90d | 2026-08-08 | 2 | 4 | 3 | 4 | 1 | 22 |
+| last180d | 2026-05-10 | 3 | 10 | 3 | 32 | 3 | 79 |
+| 360d | 2025-11-11 | 5 | 13 | 3 | 62 | 8 | 157 |
+| last720d | 2024-11-16 | 6 | 13 | 3 | 92 | 18 | 189 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:25:26Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:22:22Z._
