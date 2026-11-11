@@ -14,13 +14,13 @@ x install trzsz-ssh
 
 ## Code insight
 
-Total: **21,718** lines of code across **89** files in the top 5 languages.
+Total: **22,100** lines of code across **90** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 21,680 | 2,817 | 3,202 | 85 |
+| Go | 22,062 | 2,845 | 3,274 | 86 |
 | Makefile | 38 | 0 | 9 | 1 |
-| Markdown | 0 | 1,720 | 786 | 3 |
+| Markdown | 0 | 1,758 | 792 | 3 |
 
 ## Source
 
@@ -31,27 +31,27 @@ Total: **21,718** lines of code across **89** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dev` (2026-10-25)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-10
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 2,782 · **Forks**: 162 · **Open issues**: 256 · **Contributors**: 22
+- **Stars**: 2,783 · **Forks**: 162 · **Open issues**: 256 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 19 · **Open PRs**: 3 · **Closed issues**: 227 · **Open issues**: 29 · **Commits**: 374
+- **Releases**: 28 · **Merged PRs**: 20 · **Open PRs**: 2 · **Closed issues**: 227 · **Open issues**: 29 · **Commits**: 375
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 3 | 3 | 1 | 0 | 12 |
-| last60d | 2026-09-11 | 2 | 4 | 3 | 2 | 0 | 20 |
-| 90d | 2026-08-12 | 2 | 5 | 3 | 4 | 1 | 23 |
-| last180d | 2026-05-14 | 3 | 11 | 3 | 31 | 3 | 81 |
-| 360d | 2025-11-15 | 5 | 14 | 3 | 61 | 8 | 159 |
-| last720d | 2024-11-20 | 6 | 14 | 3 | 92 | 18 | 192 |
+| 30d | 2026-10-12 | 2 | 4 | 2 | 1 | 0 | 13 |
+| last60d | 2026-09-12 | 2 | 5 | 2 | 2 | 0 | 21 |
+| 90d | 2026-08-13 | 2 | 6 | 2 | 4 | 0 | 24 |
+| last180d | 2026-05-15 | 3 | 12 | 2 | 31 | 3 | 82 |
+| 360d | 2025-11-16 | 5 | 15 | 2 | 61 | 8 | 160 |
+| last720d | 2024-11-21 | 6 | 15 | 2 | 92 | 18 | 193 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for trzsz-ssh lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:58:23Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:23:58Z._
